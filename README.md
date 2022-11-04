@@ -40,7 +40,7 @@
     <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor/">View Demo</a>
+    <a href="https://mathieu-despres.github.io/mattyd-professional-portfolio/">View Demo</a>
     ·
     <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues">Report Bug</a>
     ·
