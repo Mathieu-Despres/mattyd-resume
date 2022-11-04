@@ -29,7 +29,7 @@
 <br />
 <div align="center">
   <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor">
-    <img src="./assets/images/logo.svg" alt="Logo" width="128" height="128">
+    <img src="./assets/images/portfolio-icon.png" alt="Logo" width="128" height="128">
   </a>
 
 <h3 align="center">Professional Portfolio</h3>
