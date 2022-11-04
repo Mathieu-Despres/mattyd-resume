@@ -28,7 +28,7 @@
 
 <br />
 <div align="center">
-  <a href="https://mathieu-despres.github.io/HTML-CSS-code-refactor">
+  <a href="https://mathieu-despres.github.io/mattyd-professional-portfolio">
     <img src="./assets/images/professional-portfolio-icon.svg" alt="Logo" width="128" height="128">
   </a>
 
@@ -37,14 +37,14 @@
   <p align="center">
     This projectsd was created for students who are currently doing the Coding Boot Camp offered by UNB. It contains the assignment found in Module 2 Challenge.
     <br></br>
-    <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Mathieu-Despres/mattyd-professional-portfolio"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://mathieu-despres.github.io/mattyd-professional-portfolio/">View Demo</a>
     ·
-    <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues">Report Bug</a>
+    <a href="https://github.com/Mathieu-Despres/mattyd-professional-portfolio/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Mathieu-Despres/HTML-CSS-code-refactor/issues">Request Feature</a>
+    <a href="https://github.com/Mathieu-Despres/mattyd-professional-portfolio/issues">Request Feature</a>
   </p>
 </div>
 
